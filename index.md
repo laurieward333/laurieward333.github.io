@@ -24,3 +24,15 @@ I challenge myself to develop curriculum that reaches all levels of learners and
 
 [Professional Resume](https://github.com/laurieward333/Professional_Space/blob/main/Laurie%20Kay%20Ward%20CV.docx)
 
+## Writing Examples ##
+
+- [Dissertation: published 2013](https://shareok.org/handle/11244/10476/browse?type=author&value=Ward%2C+Laurie)
+- Briar Chapel Community Magazine 
+  - March 2022 : *My Televeision Is A Babysitter* 
+  - April 2022 : *Five Simple Ways to Work on Your Child's Reading and Writing From Home*
+  - May 2022 : *Cookie Cutter Fun*
+  - June 2022 : *Educational Activities to do with Little Ones with a Bag of M&M's or Skittles*
+  - July 2022 : *In the Face of Grief*
+  - August 2022: *If You Have Rocks...You Have Fun!*
+
+
