@@ -1,4 +1,4 @@
-# Laurie Kay Ward #
+# Laurie Kay Ward 
 
 email: lauriekayward@gmail.com
 
