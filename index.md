@@ -61,10 +61,16 @@ I challenge myself to develop curriculum that reaches all levels of learners and
 
 ## Presentations and Speaking Engagements ##
 
-- Author visit to Newcastle High School - April, 2022
-- Guest Book Reviewer on [Okie Bookcast: Chapter 5](http://tun.in/pkFz7) - November 2021
-- Presenter at [Desire 2 Learn (D2L) National Conference](https://www.d2l.com/blog/3-ways-keep-students-instructors-engaged-online-courses/) - June 2017
-- *Additional Presentations are listed on my resume*
+Author visit to Newcastle High School
+: April, 2022
+
+Guest Book Reviewer on [Okie Bookcast: Chapter 5](http://tun.in/pkFz7)
+: November 2021
+
+Presenter at [Desire 2 Learn (D2L) National Conference](https://www.d2l.com/blog/3-ways-keep-students-instructors-engaged-online-courses/)
+: June 2017
+
+*Additional Presentations are listed on my resume*
 
 
 
