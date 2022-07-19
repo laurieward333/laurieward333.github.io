@@ -2,22 +2,22 @@
 
 email: lauriekayward@gmail.com
 
-## Table of Contents ##
+## Table of Contents
 
-[Bio Abstract and Website Intent](https://laurieward33.github.io/index.md/##%20Bio%20Abstract%20and%20Website%20Intent%20##)
+1. [Bio Abstract and Website Intent](#bio-abstract-and-website-intent)
 
-[Professional Mission](https://laurieward33.github.io/index.md/##%20My%20Professional%20Mission%20##)
+2. [Professional Mission](#my-professional-mission)
 
-[Professional Websites and Links](https://laurieward33.github.io/index.md/##%20Professional%20Websites%20and%20Links%20##)
+3. [Professional Websites and Links](#professional-websites-and-links)
 
-[Resume](https://laurieward33.github.io/index.md/##%20Resume%20##)
+4. [Resume](#resume)
 
-[Writing Examples](https://laurieward33.github.io/index.md/##%20Writing%20Examples%20##)
+5. [Writing Examples](#writing-examples)
 
-[Presentations and Speaking Engagements](https://laurieward33.github.io/index.md/##%20Presentations%20and%20Speaking%20Engagements%20##)
+6. [Presentations and Speaking Engagements](#presentations-and-speaking-engagements)
 
 
-## Bio Abstract and Website Intent ##
+## Bio Abstract and Website Intent
 
 This website is to feature my professional accomplishments, portfolio contents, resume, and other professional accomplishments.
 
@@ -29,11 +29,11 @@ I volunteered with a local animal rescue, fostering 13 little puppies until Stel
 
 I have recently launched [LW - Learning and Knowledge Consulting](https://www.youtube.com/channel/UCyKRYDndOS6lVgMwnX4ls1g/featured) where I am working to create a community of knowledge and learning in both the academic and corporate world. My hope is that I will provide various levels of learning and knowledge types, techniques, approaches, theories, methodologies, and stories that I have found to be successful through experience, research, and implementation. Professionals from various fields associated with education, communication, learning, knowledge, and curriculum will also be featured in a video series. These professionals are from the academic and corporate worlds. I believe that providing professional examples of how learning and communication techniques from those in desired fields actively practicing is extraordinarily valuable. *LW - Learning and Knowledge Consulting is currently in the Pre-Launch phase*
 
-## My Professional Mission ##
+## My Professional Mission
 
 I challenge myself to develop curriculum that reaches all levels of learners and busy professionals in the academic and corporate environments. I have experience designing curriculum at the secondary and collegiate levels as well as in the academic and profressional sectors. I continue to grow in my field by giving presentations on curriculum and training at the industry, local, and national levels, and through continuing research allowing me to stay up to date with education and curriculum trends.
 
-## Professional Websites and Links ##
+## Professional Websites and Links
 
 [**LinkedIn Profile**](https://www.linkedin.com/in/laurie-ward-ph-d-m-ed-m-b-a-99b582155/)
 
@@ -41,11 +41,11 @@ I challenge myself to develop curriculum that reaches all levels of learners and
 
 [**YouTube**](https://www.youtube.com/channel/UCyKRYDndOS6lVgMwnX4ls1g/featured) *This channel is in the Pre-Launch phase at this time*
 
-## Resume ##
+## Resume
 
 [Professional Resume](https://github.com/laurieward333/Professional_Space/blob/main/Laurie%20Kay%20Ward%20CV.docx)
 
-## Writing Examples ##
+## Writing Examples
 
 - [Dissertation: published 2013](https://shareok.org/handle/11244/10476/browse?type=author&value=Ward%2C+Laurie)
 - Briar Chapel Community Magazine 
@@ -59,7 +59,7 @@ I challenge myself to develop curriculum that reaches all levels of learners and
 -  [The Tree of Life: Book 2](https://www.amazon.com/Tree-Life-Book-L-K-Ward/dp/1667823027/ref=sr_1_2?crid=17Q15JC3YJ910&keywords=lk+ward&qid=1658255800&s=books&sprefix=lk+ward%2Cstripbooks%2C61&sr=1-2)
 -  **The Tree of Life: Book 3** (currently being written)
 
-## Presentations and Speaking Engagements ##
+## Presentations and Speaking Engagements
 
 Author visit to Newcastle High School
 : April, 2022
