@@ -6,7 +6,7 @@ email: lauriekayward@gmail.com
 
 This is a repository to feature my professional accomplishments, portfolio contents, resume, and other professional accomplishments.
 
-![headshot](https://github.com/laurieward333/Professional_Space/blob/main/LinkedIn%20Profile%20Picture.jpg)
+![headshot](https://github.com/laurieward333/laurieward333.github.io/blob/main/LinkedIn%20Profile%20Picture.jpg))
 
 ## My Professional Mission ##
 
