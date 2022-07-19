@@ -55,8 +55,8 @@ I challenge myself to develop curriculum that reaches all levels of learners and
   - June 2022 : *Educational Activities to do with Little Ones with a Bag of M&M's or Skittles*
   - July 2022 : *In the Face of Grief*
   - August 2022: *If You Have Rocks...You Have Fun!*
--  [The Tree of Life: Book 1](https://www.amazon.com/Tree-Life-Book-L-K-Ward/dp/1667806688/ref=sr_1_1?crid=37ZBIWCKV7VZQ&keywords=lk+ward&qid=1658255724&sprefix=lk+ward%2Caps%2C86&sr=8-1)
--  [The Tree of Life: Book 2](https://www.amazon.com/Tree-Life-Book-L-K-Ward/dp/1667823027/ref=sr_1_2?crid=17Q15JC3YJ910&keywords=lk+ward&qid=1658255800&s=books&sprefix=lk+ward%2Cstripbooks%2C61&sr=1-2)
+-  [The Tree of Life: Book 1](https://www.amazon.com/Tree-Life-Book-L-K-Ward/dp/1667806688/ref=sr_1_1?crid=37ZBIWCKV7VZQ&keywords=lk+ward&qid=1658255724&sprefix=lk+ward%2Caps%2C86&sr=8-1) : published 2021
+-  [The Tree of Life: Book 2](https://www.amazon.com/Tree-Life-Book-L-K-Ward/dp/1667823027/ref=sr_1_2?crid=17Q15JC3YJ910&keywords=lk+ward&qid=1658255800&s=books&sprefix=lk+ward%2Cstripbooks%2C61&sr=1-2) : published 2022
 -  **The Tree of Life: Book 3** (currently being written)
 
 ## Presentations and Speaking Engagements
