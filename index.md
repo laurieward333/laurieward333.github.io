@@ -2,11 +2,24 @@
 
 email: lauriekayward@gmail.com
 
+## Table of Contents ##
+
+[Bio Abstract and Website Intent](https://laurieward33.github.io/index.md/##%20Bio%20Abstract%20and%20Website%20Intent%20##)
+
+[Professional Mission](https://laurieward33.github.io/index.md/##%20My%20Professional%20Mission%20##)
+
+[Professional Websites and Links](https://laurieward33.github.io/index.md/##%20Professional%20Websites%20and%20Links%20##)
+
+[Resume](https://laurieward33.github.io/index.md/##%20Resume%20##)
+
+[Writing Examples](https://laurieward33.github.io/index.md/##%20Writing%20Examples%20##)
+
+[Presentations and Speaking Engagements](https://laurieward33.github.io/index.md/##%20Presentations%20and%20Speaking%20Engagements%20##)
+
+
 ## Bio Abstract and Website Intent ##
 
 This website is to feature my professional accomplishments, portfolio contents, resume, and other professional accomplishments.
-
-![headshot](https://github.com/laurieward333/laurieward333.github.io/blob/main/LinkedIn%20Profile%20Picture.jpg)
 
 I am a curriculum developer, editor, educator, researcher and author in my professional life. I spent much of my early adult professional career in Secondary public classrooms teaching English, Creative Writing, and sponsoring more clubs and extracurriculars than I can remember. I progressed out of the secondary classroom into the collegiate classroom and even further as a Curriculum Design Specialist for University. My time in the collegiate world allowed me to write content for courses, teach courses, and design courses with other professors in multiple departments through close collaboration. When given the opportunity, I moved from the world of academia to the business sector as a Director of Curriculum Development. In this position my knowledge and skills surrounding curriculum expanded beyond what I learned in the world academia to include the health care industry, business industry basics, video editing and development, various coding languages, and further developed my skills in collaboration and managing and completing multiple tasks with various departments simultaneously. 
 
