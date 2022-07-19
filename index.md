@@ -46,4 +46,12 @@ I challenge myself to develop curriculum that reaches all levels of learners and
 -  [The Tree of Life: Book 2](https://www.amazon.com/Tree-Life-Book-L-K-Ward/dp/1667823027/ref=sr_1_2?crid=17Q15JC3YJ910&keywords=lk+ward&qid=1658255800&s=books&sprefix=lk+ward%2Cstripbooks%2C61&sr=1-2)
 -  **The Tree of Life: Book 3** (currently being written)
 
+## Presentations and Speaking Engagements ##
+
+- Author visit to Newcastle High School - April, 2022
+- Guest Book Reviewer on [Okie Bookcast: Chapter 5](http://tun.in/pkFz7) - November 2021
+- Presenter at [Desire 2 Learn (D2L) National Conference](https://www.d2l.com/blog/3-ways-keep-students-instructors-engaged-online-courses/) - June 2017
+- *Additional Presentations are listed on my resume*
+
+
 
