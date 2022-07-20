@@ -16,6 +16,8 @@ email: lauriekayward@gmail.com
 
 6. [Presentations and Speaking Engagements](#presentations-and-speaking-engagements)
 
+7. [Example Training Videos and Scripts](#example-training-videos-and-scripts)
+
 
 ## Bio Abstract and Website Intent
 
@@ -71,6 +73,13 @@ Presenter at [Desire 2 Learn (D2L) National Conference](https://www.d2l.com/blog
 : June 2017
 
 *Additional Presentations are listed on my resume*
+
+## Example Training Videos and Scripts
+
+| Video Name     | Script     |
+| -------------- |----------- |
+| Sample Creating A Voice Recording in Camtasia Video | |
+|  | |
 
 
 
