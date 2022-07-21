@@ -75,7 +75,7 @@ Presenter at [Desire 2 Learn (D2L) National Conference](https://www.d2l.com/blog
 | Video Name     | Script     |
 | -------------- |----------- |
 | [Sample Creating A Voice Recording in Camtasia Video](https://github.com/laurieward333/laurieward333.github.io/blob/main/Sample%20Creating%20A%20Voice%20Recording%20In%20Camtasia%20Video.mp4) | [Script Available](https://github.com/laurieward333/laurieward333.github.io/blob/main/Sample%20Script%20for%20Creating%20a%20Voice%20Recording%20in%20Camtasia%20Video.pdf) |
-| [Sample Video: How to Write An Objective]()  | No Script |
+| [Sample Video: How to Write An Objective](https://www.screencast.com/t/JKlg8RAmLpr)  | No Script |
 
 
 
