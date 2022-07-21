@@ -41,7 +41,7 @@ I challenge myself to develop curriculum that reaches all levels of learners and
 
 ## Resume
 
-[Professional Resume](https://github.com/laurieward333/Professional_Space/blob/main/Laurie%20Kay%20Ward%20CV.docx)
+[Professional Resume](https://github.com/laurieward333/Professional_Space/blob/main/Laurie%20Kay%20Ward%20CV%20with%20website.docx)
 
 ## Writing Examples
 
