@@ -14,6 +14,8 @@ email: lauriekayward@gmail.com
 
 5. [Writing Examples](#writing-examples)
 
+   - [Book Reviews](#book-reviews)
+
 6. [Presentations and Speaking Engagements](#presentations-and-speaking-engagements)
 
 7. [Example Training Videos and Scripts](#example-training-videos-and-scripts)
@@ -56,6 +58,26 @@ I challenge myself to develop curriculum that reaches all levels of learners and
 -  [The Tree of Life: Book 1](https://www.amazon.com/Tree-Life-Book-L-K-Ward/dp/1667806688/ref=sr_1_1?crid=37ZBIWCKV7VZQ&keywords=lk+ward&qid=1658255724&sprefix=lk+ward%2Caps%2C86&sr=8-1) : published 2021
 -  [The Tree of Life: Book 2](https://www.amazon.com/Tree-Life-Book-L-K-Ward/dp/1667823027/ref=sr_1_2?crid=17Q15JC3YJ910&keywords=lk+ward&qid=1658255800&s=books&sprefix=lk+ward%2Cstripbooks%2C61&sr=1-2) : published 2022
 -  **The Tree of Life: Book 3** (currently being written)
+
+### Book Reviews 
+
+_The Land of Stories - The Wishing Spell_
+
+By: Chris Colfer
+
+My daughter convinced me to read one of her favorite books: "The Land of Stories - The Wishing Spell" by Chris Colfer.
+
+It was a whimsical book that created a new spin on well known fairy tales and characters as a brother and sister navigate a very real Land of Stories that they had
+only known as bedtime stories from the pages of an old book read by their dad and grandma.
+
+Chris Colfer does a great job of breaking the expected norms of fairytale characters and allows the reader to slip into an easy to adopt world created by Colfer
+himself. Although it was not my favorite book I've read, it was a fast and entertaining read that kept me turning the pages to find out what Alex and Conner got into
+next.
+
+Wondering where you have heard the name Chris Colfer? He is not only a successful author, he is also a main character on the hit show, Glee, and has appeared in
+numerous Broadway productions. Quite the talented individual!
+
+----------
 
 ## Presentations and Speaking Engagements
 
