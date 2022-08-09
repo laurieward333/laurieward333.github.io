@@ -16,6 +16,8 @@ email: lauriekayward@gmail.com
 
    - [Book Reviews](#book-reviews)
 
+   - [Article: Description of Brown's Park](#article:-description-of-brown's-park)
+
 6. [Presentations and Speaking Engagements](#presentations-and-speaking-engagements)
 
 7. [Example Training Videos and Scripts](#example-training-videos-and-scripts)
@@ -27,7 +29,7 @@ This website is to feature my professional accomplishments, portfolio contents, 
 
 I am a curriculum developer, editor, educator, researcher and author in my professional life. I spent much of my early adult professional career in Secondary public classrooms teaching English, Creative Writing, and sponsoring more clubs and extracurriculars than I can remember. I progressed out of the secondary classroom into the collegiate classroom and even further as a Curriculum Design Specialist for University. My time in the collegiate world allowed me to write content for courses, teach courses, and design courses with other professors in multiple departments through close collaboration. When given the opportunity, I moved from the world of academia to the business sector as a Director of Curriculum Development. In this position my knowledge and skills surrounding curriculum expanded beyond what I learned in the world academia to include the health care industry, business industry basics, video editing and development, various coding languages, and further developed my skills in collaboration and managing and completing multiple tasks with various departments simultaneously. 
 
-I have recently launched [LW - Learning and Knowledge Consulting](https://www.youtube.com/channel/UCyKRYDndOS6lVgMwnX4ls1g/featured) where I am working to create a community of knowledge and learning in both the academic and corporate world. My hope is that I will provide various levels of learning and knowledge types, techniques, approaches, theories, methodologies, and stories that I have found to be successful through experience, research, and implementation. Professionals from various fields associated with education, communication, learning, knowledge, and curriculum will also be featured in a video series. These professionals are from the academic and corporate worlds. I believe that providing professional examples of how learning and communication techniques from those in desired fields actively practicing is extraordinarily valuable. *LW - Learning and Knowledge Consulting is currently in the Pre-Launch phase*
+I have recently launched [LW - Learning and Knowledge Consulting](https://www.youtube.com/channel/UCyKRYDndOS6lVgMwnX4ls1g/featured) where I am working to create a community of knowledge and learning in both the academic and corporate world. My hope is that I will provide various levels of learning and knowledge types, techniques, approaches, theories, methodologies, and stories that I have found to be successful through experience, research, and implementation. Professionals from various fields associated with education, communication, learning, knowledge, and curriculum will also be featured in a video series. These professionals are from the academic and corporate worlds. I believe that providing professional examples of how learning and communication techniques from those in desired fields actively practicing is extraordinarily valuable. 
 
 ## My Professional Mission
 
@@ -37,9 +39,23 @@ I challenge myself to develop curriculum that reaches all levels of learners and
 
 [**LinkedIn Profile**](https://www.linkedin.com/in/laurie-ward-ph-d-m-ed-m-b-a-99b582155/)
 
+---
+
 [**Author Website**](https://store.bookbaby.com/profile/LKWard)
 
-[**YouTube**](https://www.youtube.com/channel/UCyKRYDndOS6lVgMwnX4ls1g/featured) *This channel is in the Pre-Launch phase at this time*
+  -[Goodreads Author Profile](https://www.goodreads.com/author/dashboard?ref=nav_profile_authordash)
+  
+---
+
+[**YouTube**](https://www.youtube.com/channel/UCyKRYDndOS6lVgMwnX4ls1g/featured) 
+   
+   - [LW - Learning and Knowledge Consulting Introduction Video](https://www.youtube.com/channel/UCyKRYDndOS6lVgMwnX4ls1g)
+      - #### Playlists
+        - [Google Classroom Helps](https://www.youtube.com/watch?v=A4FcQDfhnFM&list=PLq_09_os22BLsEdPHzURdKZl5D4A6BUA1)
+        - [Literacy Assessment Projects - Not Essays!](https://www.youtube.com/watch?v=3m-CwewH7EM&list=PLq_09_os22BLNsNOgYfIFpGOw-ZNFOiDm)
+        - [**Bridging the Gap** video series](https://www.youtube.com/watch?v=CAktmEzlar8&list=PLq_09_os22BINrUKOoQTZb0kMc8o9XyjH)
+          - Episode 1 : Ray Dillman - Objectives and Scaffolding
+          - Episode 2 : Ray Dillman - Collaboration  
 
 ## Resume
 
@@ -76,6 +92,16 @@ next.
 
 Wondering where you have heard the name Chris Colfer? He is not only a successful author, he is also a main character on the hit show, Glee, and has appeared in
 numerous Broadway productions. Quite the talented individual!
+
+---
+
+### Article: *Description of Brown's Park*
+
+Brown’s Island, located in Richmond Virginia, connects to the James River, and boasts an impressive six-acre riverfront. If you want to get up close and personal with the river, feel free to visit one of the many kayak and paddleboard rental areas to start your adventure on the water. While on the river, keep an eye out for osprey, blue heron, and even eagles! Other than the amazing views of the river, there are plenty of other must-see locations including public art exhibits, memorials, biking and hiking trails, and an abundance of wildlife can be spotted on and off the river. If the great outdoors isn’t your thing, enjoy over 75 different restaurants in the area as well as local shopping, and museums nearby. The Brown’s Island area is also a popular venue for outdoor concerts, and the Richmond Folk Festival. Other popular views from Brown’s Island are Belle Isle, the Manchester Bridge, the Rivanna Subdivision Trestle runs through the area too, making Brown’s Island not just a great place to visit for music, food, and nightlife lovers, but also for railway fans too.  Brown’s is also handicap accessible, pet friendly, and offers many locations with Wi-Fi access. There is a little bit for everyone to enjoy at Browns Island!
+
+**Video Script**
+
+Brown’s Island, a beautiful and area connecting to the James River is a great choice for anyone who is looking for an adventure, a serene riverside hike, a chance to step into a rich history, or an opportunity to listen to music, eat, and shop. Adventurous types will enjoy the kayaking and paddleboarding on the river, as well as looking to the skies to spot osprey, blue heron, and majestic eagles. Hikers can join in on the adventure too, as they stroll the James River Canal walk or they can take a brisk bike ride. History lovers will enjoy the many open art areas and sculpture gardens, historical bridge views, memorials, and the Virginia Museum of Fine Arts.  Foodies will enjoy the 75 different restaurants to choose from and once they have their fill of the local cuisine, they can go shopping. Let’s not forget that Brown’s Island is known for its outdoor concerts and the Richmond Folk Festival. There really is something for everyone at Brown’s Island – come visit us in Virginia, you’ll love it.
 
 ----------
 
